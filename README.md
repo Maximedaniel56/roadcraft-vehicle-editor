@@ -2,8 +2,15 @@
 
 Fork from https://github.com/samu126-HU/roadcraft-vehicle-editor
 
-Add the dynamic loading of the vehicules existing in your game.
-Just select to the game directory path and all vehicules will be directly loaded from the .pak, making this compatible with other vehicles mods 
+I added the ability to select the game folder, so all vehicles and their properties are now loaded directly from the game instead of a hardcoded database. This makes the editor compatible with other mods that modify vehicle properties.
+
+Launch RoadCraft Vehicle Editorv2.exe
+
+Select your RoadCraft game folder (e.g. C:\Program Files (x86)\Steam\steamapps\common\RoadCraft)
+
+Choose the vehicle whose properties you want to modify
+
+Save (saving to .pak is the safest and easiest option — choose ...\RoadCraft\root\paks\client\default\default_other.pak)
 ---
 
 **Happy modding!**
